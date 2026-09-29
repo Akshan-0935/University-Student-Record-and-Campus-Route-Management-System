@@ -1,6 +1,6 @@
 # University Student Record and Campus Route Management System
 
-**Course:** CIT300 - Graded Practical Assignment 1 (Week 10)
+**Course:** CIT300 - Graded Practical Assignment 1
 
 A menu-driven Java console application that manages student records and campus routes. It demonstrates the main data structures covered in the course.
 
